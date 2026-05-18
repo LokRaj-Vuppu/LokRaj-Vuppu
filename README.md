@@ -19,10 +19,10 @@ Passionate about building scalable applications and solving real-world problems 
 
 ## 🛠️ Tech Stack
 
-**Backend**: Django, Flask, DRF, Celery, Redis  
-**Frontend**: React, React Native, Redux, Material UI, Tailwind  
+**Backend**: Python, Django, Flask, DRF, Celery, Redis  
+**Frontend**: JavaScript, React, React Native  
 **DevOps**: Docker, Kubernetes, Nginx, GitHub Actions  
-**Databases**: PostgreSQL, SQLite, Firestore  
+**Databases**: PostgreSQL, SQLite, InfluxDB  
 **Cloud**: AWS S3, RDS, EC2, ECS
 
 ---
