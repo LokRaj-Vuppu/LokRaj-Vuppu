@@ -9,7 +9,7 @@ Passionate about building scalable applications and solving real-world problems 
 ## 🚀 About Me
 
 - 💻 4+ years of experience building web and mobile applications
-- ⚡ Strong in backend development using Django, Django REST Framework, and FastAPI
+- ⚡ Strong in backend development using Python, Django and Django REST Framework 
 - 🔄 Experienced with asynchronous systems using Celery, Redis, and RabbitMQ
 - 🐳 Build containerized applications with Docker and deploy on AWS
 - 🧪 Practice clean code principles, testing, and CI/CD automation
