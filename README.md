@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Raj Kumar 👋
 
-<!--
-**LokRaj-Vuppu/LokRaj-Vuppu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer** specializing in Django, React, and DevOps
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Build scalable web applications with **Django** and **React**
+- Deploy production systems with **Docker, Kubernetes, Nginx**
+- Practice **TDD** and maintain **CI/CD** pipelines
+- Integrate cloud services (**AWS S3**, Firebase, PostgreSQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Backend**: Django, Flask, DRF, Celery, Redis  
+**Frontend**: React, React Native, Redux, Material UI  
+**DevOps**: Docker, Kubernetes, Nginx, GitHub Actions  
+**Databases**: PostgreSQL, SQLite, Firestore  
+**Cloud**: AWS S3, Heroku
+
+## 📫 Connect
+- 🌐 Portfolio: [your-portfolio-link]
+- 💼 LinkedIn: [your-linkedin]
+- 📧 Email: [your-email]
+
+## 📌 Featured Projects
+Check out my pinned repositories below! ⬇️
